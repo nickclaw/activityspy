@@ -1,0 +1,14 @@
+I/lifecycle(15587): onPause event fired
+I/lifecycle(15587): onStop event fired
+I/lifecycle(15587): onDestroy
+E/lifecycle(15587): We’re going down, Captain!
+I/lifecycle(15587): onCreate event fired: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@41d7be90}}]}]
+I/lifecycle(15587): onStart event fired
+I/lifecycle(15587): onResume event fired
+I/lifecycle(15587): onPause event fired
+I/lifecycle(15587): onStop event fired
+I/lifecycle(15587): onDestroy
+E/lifecycle(15587): We’re going down, Captain!
+I/lifecycle(15587): onCreate event fired: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@41d7be90}}]}]
+I/lifecycle(15587): onStart event fired
+I/lifecycle(15587): onResume event fired
